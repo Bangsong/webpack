@@ -1,4 +1,4 @@
-## webpack学习代码
+## webpack4学习代码
 
 ## 下载代码
 ```cmd
@@ -8,13 +8,10 @@ git clone git@github.com:Bangsong/webpack.git
 ```cmd
 yarn
 ```
-或者
-```cmd
-cnpm i
-```
-
 ## 运行项目
-
+```cmd
+yarn serve
+```
 ## 打包
 ```cmd
 yarn build
