@@ -1,0 +1,14 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "XGamer",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^4.37.0",
+    "webpack-cli": "^3.3.6"
+  }
+}
